@@ -9,3 +9,8 @@
     font-size: 28px;
     font-family: 'Courier New', Courier, monospace;
 }
+
+.subtitle {
+    font-size: 30px;
+    font-weight: bold;
+}
