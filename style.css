@@ -1,8 +1,10 @@
 .title {
     font-size: 48px;
     color: red;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 .list {
     font-size: 28px;
+    font-family: 'Courier New', Courier, monospace;
 }
